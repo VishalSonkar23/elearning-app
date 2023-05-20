@@ -12,7 +12,7 @@
 	<artifactId>Walmartt-Ecommerce-Backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Walmart-Ecommerce-Backend</name>
-	<description>Walmartt-Ecommerce-Backend-Ecommerce-Backend</description>
+	<description>Walmartt-Ecommerce-Backend</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
